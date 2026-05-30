@@ -1,10 +1,10 @@
 import { Mail, Linkedin, Github, Globe } from "lucide-react";
 
 const links = [
-  { icon: <Mail className="w-5 h-5 text-rose-400" />, label: "Email", value: "triptishakya.2001@gmail.com", href: "mailto:triptishakya.2001@gmail.com" },
-  { icon: <Linkedin className="w-5 h-5 text-blue-400" />, label: "LinkedIn", value: "linkedin.com/in/triptishakya", href: "https://linkedin.com/in/triptishakya" },
-  { icon: <Github className="w-5 h-5 text-white" />, label: "GitHub", value: "github.com/triptishakya-dev", href: "https://github.com/triptishakya-dev" },
-  { icon: <Globe className="w-5 h-5 text-emerald-400" />, label: "Portfolio", value: "triptishakya.space", href: "https://www.triptishakya.space" },
+  { icon: <Mail className="w-5 h-5 text-rose-400" />, label: "Email", value: "sachin3434z@gmail.com", href: "mailto:sachin3434z@gmail.com" },
+  { icon: <Linkedin className="w-5 h-5 text-blue-400" />, label: "LinkedIn", value: "linkedin.com/in/sachin", href: "https://linkedin.com/in/sachin" },
+  { icon: <Github className="w-5 h-5 text-white" />, label: "GitHub", value: "github.com/sachin428z", href: "https://github.com/sachin428z" },
+  { icon: <Globe className="w-5 h-5 text-emerald-400" />, label: "Portfolio", value: "sachin.space", href: "https://www.sachin428.space" },
 ];
 
 export default function Contact() {
@@ -26,7 +26,7 @@ export default function Contact() {
             Currently open to full-time roles, freelance projects, and internship opportunities — especially in Bengaluru.
             If you&apos;re building with AI or need a reliable full-stack engineer, let&apos;s talk.
           </p>
-          <a href="mailto:triptishakya.2001@gmail.com"
+          <a href="mailto:sachin3434z@gmail.com"
             className="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-400 text-[#111827] font-display text-sm font-bold tracking-widest uppercase px-8 py-4 rounded-sm transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_10px_35px_rgba(245,158,11,0.3)]">
             Send me an email
           </a>

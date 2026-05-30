@@ -65,8 +65,8 @@ export default function Certifications() {
         <div className="relative w-full h-[500px] lg:h-auto rounded-md overflow-hidden border border-white/10 group">
           <div className="absolute inset-0 bg-emerald-500/10 mix-blend-overlay z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
           <img 
-            src="/images/profile.png" 
-            alt="Tripti working at her setup" 
+            src="/images/Profile.png" 
+            alt="Sachin working at his setup" 
             className="absolute inset-0 w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
           />
           {/* Fallback pattern if image is missing/loading */}
@@ -78,7 +78,7 @@ export default function Certifications() {
           <div className="absolute bottom-6 left-6 right-6 z-20">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 bg-[#111827]/80 backdrop-blur-sm border border-white/10 rounded-sm">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-              <span className="text-xs font-bold tracking-widest uppercase text-white/70">Building from BLR</span>
+              <span className="text-xs font-bold tracking-widest uppercase text-white/70">Building from RANCHI</span>
             </div>
           </div>
         </div>

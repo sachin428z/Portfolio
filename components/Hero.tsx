@@ -42,14 +42,14 @@ export default function Hero() {
         {/* Eyebrow */}
         <div className="inline-flex items-center gap-3 text-emerald-400 text-xs font-semibold tracking-[0.2em] uppercase mb-7" style={{ animation: "fadeUp 0.8s 0.2s both" }}>
           <span className="block w-6 h-px bg-emerald-400" />
-          Full Stack Developer — Bengaluru, India
+          Full Stack Developer — Ranchi, India
         </div>
 
         {/* Name */}
         <h1 className="font-display font-extrabold leading-[0.88] tracking-tight mb-7" style={{ fontSize: "clamp(3.8rem, 9vw, 8rem)", animation: "fadeUp 0.8s 0.4s both" }}>
-          Tripti
+          Sachin
           <br />
-          <span className="gradient-text">Shakya</span>
+          <span className="gradient-text">Kumar Gupta</span>
         </h1>
 
         {/* Tagline */}

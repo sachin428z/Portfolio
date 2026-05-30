@@ -15,7 +15,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Tripti Shakya — Full Stack Developer",
+  title: "Sachin — Full Stack Developer",
   description: "Full Stack Developer specializing in Next.js, AI integrations, and production-grade systems serving 5,000+ monthly users.",
 };
 

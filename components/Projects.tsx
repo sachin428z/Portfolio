@@ -4,7 +4,7 @@ const projects = [
     title: "AI Voice Interview Platform",
     desc: "End-to-end AI interview platform with real-time voice via VAPI — sub-2s response latency. Gemini API for dynamic question generation and automated post-interview scoring. No separate backend needed for voice orchestration.",
     tech: ["Next.js", "VAPI", "Gemini API", "Shadcn/ui", "Tailwind CSS"],
-    link: "https://github.com/triptishakya-dev",
+    link: "https://github.com/sachin428z",
     featured: true,
   },
   {
@@ -12,21 +12,21 @@ const projects = [
     title: "Chat with PDF (RAG)",
     desc: "Full-stack RAG pipeline with context-aware document Q&A. Async PDF ingestion via BullMQ + Valkey, semantic retrieval from QdrantDB.",
     tech: ["Next.js", "Express.js", "LangChain", "QdrantDB", "BullMQ", "Docker"],
-    link: "https://github.com/triptishakya-dev",
+    link: "https://github.com/sachin428z",
   },
   {
     num: "03",
     title: "Doc Search System",
     desc: "Semantic document search handling 500+ concurrent PDF ingestion jobs. Vector retrieval from QdrantDB, documents served from AWS S3.",
     tech: ["Next.js", "QdrantDB", "AWS S3", "Redis", "Valkey", "Docker"],
-    link: "https://github.com/triptishakya-dev",
+    link: "https://github.com/sachin428z",
   },
   {
     num: "04",
     title: "Resume Analyzer",
     desc: "AI-driven ATS scoring, keyword density, formatting checks and job-role alignment. Results delivered in under 200ms.",
     tech: ["Next.js", "Gemini API", "Tailwind CSS"],
-    link: "https://github.com/triptishakya-dev",
+    link: "https://github.com/sachin428z",
   },
   {
     num: "05",
@@ -48,7 +48,7 @@ export default function Projects() {
           </p>
           <h2 className="font-display text-4xl md:text-5xl font-extrabold tracking-tight leading-tight">Selected Work</h2>
         </div>
-        <a href="https://github.com/triptishakya-dev" target="_blank" rel="noopener noreferrer"
+        <a href="https://github.com/sachin428z-dev" target="_blank" rel="noopener noreferrer"
           className="hidden md:inline-flex border border-white/8 hover:border-emerald-500/30 text-white/40 hover:text-emerald-400 font-display text-xs font-semibold tracking-widest uppercase px-5 py-3 rounded-sm transition-all duration-200">
           All on GitHub →
         </a>

@@ -14,7 +14,7 @@ export default function About() {
             <span className="gradient-text">Production-grade.</span>
           </h2>
           <div className="space-y-4 text-white/45 leading-relaxed text-[0.95rem]">
-            <p>I&apos;m a Full Stack Developer based in Bengaluru with <span className="text-white">2+ years of experience</span> building and shipping real products — without a CS degree.</p>
+            <p>I&apos;m a Full Stack Developer based in Ranchi with <span className="text-white">2+ years of experience</span> building and shipping real products — without a CS degree.</p>
             <p>From a <span className="text-white">BA LLB background</span>, I taught myself everything from React to AWS deployments, shipping my first client project within 6 months of learning Next.js.</p>
             <p>My focus is on <span className="text-white">AI-integrated web applications</span> — combining full-stack engineering with LLMs, vector databases, and real-time pipelines.</p>
           </div>
